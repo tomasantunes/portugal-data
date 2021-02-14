@@ -2,3 +2,6 @@
 
 - https://github.com/sapo/Ink
 - https://github.com/jfoclpf/delp.pt
+- https://www.caixamagica.pt/
+- https://sourceforge.net/projects/acor-os/
+- https://zedosproject.github.io/
