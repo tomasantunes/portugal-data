@@ -1,0 +1,18 @@
+# Data
+
+- [Pordata](https://www.pordata.pt/en/Home)
+- [INE](https://www.ine.pt/xportal/xmain?xpgid=ine_main&xpid=INE&xlang=pt)
+- [Covid19pt-data](https://github.com/dssg-pt/covid19pt-data)
+- [Fires in Portugal](https://github.com/evillax/fires_in_portugal)
+- [Street Adresses](https://github.com/Miguel-Frazao/portugal-data)
+- [Awesome Portugal Data](https://github.com/rgllm/awesome-portugal-data)
+- [Public APIs Portugal](https://github.com/gpirescampos/public-api-portugal)
+- [IPMA API](https://api.ipma.pt/)
+- [Dados.gov](https://dados.gov.pt/pt/)
+- [Contratos Públicos](http://www.base.gov.pt/Base/pt/Homepage)
+- [SGMAI](https://www.sg.mai.gov.pt/)
+- [CNE](http://eleicoes.cne.pt/)
+- [Parlamento.pt](https://www.parlamento.pt/)
+- [Processos Judiciais](http://www.dgsi.pt/home.nsf?OpenDatabase)
+- [Infarmed](https://placotrans.infarmed.pt/publico/listagempublica.aspx)
+- [SICAE](http://www.sicae.pt/)
