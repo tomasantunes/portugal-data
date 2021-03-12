@@ -16,3 +16,4 @@
 - [Processos Judiciais](http://www.dgsi.pt/home.nsf?OpenDatabase)
 - [Infarmed](https://placotrans.infarmed.pt/publico/listagempublica.aspx)
 - [SICAE](http://www.sicae.pt/)
+- [Tech Companies in Portugal](https://github.com/marmelo/tech-companies-in-portugal)
